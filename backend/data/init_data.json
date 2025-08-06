@@ -1,0 +1,7 @@
+{
+  "wards": [
+    { "id": 1, "name": "ICU", "total_beds": 10, "occupied_beds": 9 },
+    { "id": 2, "name": "General", "total_beds": 25, "occupied_beds": 23 },
+    { "id": 3, "name": "Emergency", "total_beds": 15, "occupied_beds": 12 }
+  ]
+}
